@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "x-agent-skills",
+  "version": "0.1.0",
+  "description": "X-native posts, long-form, replies, profile, planning, and evidence-led review for growing an account by hand. Drafting and supplied-data analysis, not publishing automation.",
+  "author": {"name": "Blazing Interwebs"},
+  "repository": "https://github.com/BlazingInterwebs/x-agent-skills",
+  "license": "MIT",
+  "keywords": ["x", "twitter", "content", "creators", "audience-growth", "agent-skills"]
+}
