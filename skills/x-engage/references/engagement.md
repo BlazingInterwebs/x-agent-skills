@@ -27,6 +27,22 @@ Early. Replies near the top of a fresh post get read. Operators say the first
 said in May 2026 he allows only in-network replies for the first 20 minutes
 on his posts to block bots.
 
+## Viral moments
+
+Operator observation (Oct 2026, UNVERIFIED): a post from a bigger account in
+the user's niche that is climbing fast (far above that account's usual
+numbers within hours) is a short window for visibility.
+
+- Only from accounts on the user's list or ones the user names; same lane.
+- Early (first hour or so): a stand-alone reply that adds a step, an
+  example or a sharper line.
+- Late (many hours in, hundreds of replies): a reply is likely buried.
+  A quote post with a real addition from the user's own experience can
+  work better. Route quote copy through `x-post`.
+- Skip if the topic is political, sensitive, or ragebait, however big it is.
+- Viral replies sit after the user's own posts and regular reply list in
+  priority, unless the user's context says otherwise.
+
 ## How many
 
 Quality over volume. Bier (Jan 2026) called "reply hundreds of times a day"

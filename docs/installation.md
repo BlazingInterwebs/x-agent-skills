@@ -18,7 +18,9 @@ installation means copying complete `skills/x-*` folders.
 
 Use your host's skill syntax, e.g. `$x-post` in Codex. Fill the
 [optional context](../templates/context.md) outside the public project, or
-supply details in the task.
+supply details in the task. Local copies named `context.local.md` or
+`*.private.md` are git-ignored as a safety net; keeping them outside the
+clone is still better.
 
 ## Updates and uninstall
 

@@ -9,9 +9,11 @@ Don't scrape the account. Analytics fields vary by subscription plan
 ## What to log per post
 
 Date, time and timezone, mix (thought / two-step / personal or the user's
-own), hook type, format (single, long post, thread, Article, quote, reply),
-impressions, replies, reposts + quotes, bookmarks, profile visits, new
-follows (if shown), link clicks (if any).
+own), funnel stage (reach / trust / sales), hook type, format (single, long
+post, thread, Article, quote, reply), CTA (none / soft, with the line used),
+link placement (body / first reply / none), impressions, replies, reposts +
+quotes, bookmarks, profile visits, new follows (if shown), link clicks (if
+any), DMs or inquiries the user attributes to the post (user-reported).
 
 | Objective | Useful evidence | Do not confuse with |
 | --- | --- | --- |
@@ -19,6 +21,10 @@ follows (if shown), link clicks (if any).
 | Conversation | Replies, quotes, replies from mutuals | Likes alone |
 | Follow conversion | Profile visits and follows near the post date | Net follower change for the whole week |
 | Traffic | Link clicks with a stated destination | Impressions on a link post |
+| Conversion | Profile visits, link clicks, DMs and follows per post, grouped by topic, format and funnel stage | Reach alone; a post can reach widely and convert nobody |
+
+When the link sits in the first reply, count its clicks toward the parent
+post. DMs are user-reported and unverified; record them as such.
 
 ## Outliers (relative to the same account, never to other accounts)
 

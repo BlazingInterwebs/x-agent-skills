@@ -14,7 +14,7 @@ change a subscription, or join/leave anything on the user's behalf.
 
 Use supplied information first: account, audience, objective, deliverable,
 the facts behind any claim, and the user's context (voice, story, pillars,
-offer, CTA, mix). Ask only for missing information that materially changes
+offer, CTA, mix, funnel weights, posts per day, link placement, CTA limits). Ask only for missing information that materially changes
 the task. A reasonable assumption may support a provisional draft; label it.
 Read private context only when the user has authorized it for this task.
 
@@ -33,10 +33,13 @@ AI phrasing. Check the user's punctuation rules (some voices ban em dashes).
 
 ```
 Mix: <from context>
+Stage: reach | trust | sales
 Hook type: bold claim | callout | curiosity gap | clear outcome | contrarian
 Format: single | long post | thread | Article | quote | reply
+CTA: none | soft: <the one line>
 Draft:
 <text>
+First reply: <link line, only when context puts links in the first reply>
 Alt hook: <text>
 Needs from the user: <any {{RESULT}} or fact to confirm, or "none">
 ```

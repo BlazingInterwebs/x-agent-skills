@@ -10,7 +10,8 @@
 | **Quote post** | Someone else's post plus a real addition | Dunking, adding nothing |
 
 Use the user's mix weights from context; a working default is about 40%
-thought, 30% two-step, 30% personal.
+thought, 30% two-step, 30% personal. Also tag the funnel stage (reach, trust,
+sales) per the shared growth reference.
 
 ## The five hook types (from Ryan's "Distribution 101")
 
@@ -38,7 +39,37 @@ Rules:
 - Write for a smart outsider. Bier (Sep 2025): write "in a way that is
   accessible to broader audiences."
 - Steal formats, not content, from adjacent niches.
-- Links in the body with context; see the shared surfaces reference.
+- Links per the shared surfaces reference and the user's link placement
+  setting, always with a line on what's behind them.
+
+## Format shapes seen on high-reach posts
+
+Operator observation from one 48-hour sample of large business-creator
+accounts (Oct 2026, UNVERIFIED, a format signal not a rule). Use the shape,
+never the wording of someone else's post. The claim must be true for the user.
+
+| Shape | Example shape |
+| --- | --- |
+| **One-line truth** | 1 to 3 short sentences, no link, no image, a little uncomfortable |
+| **Reframe** | "Most people who {{X}} are actually {{Y}}." |
+| **Signs list** | "Signs you'll stay {{stuck state}}:" then 3 short lines |
+| **Named tool + action** | One specific tool and the exact thing the user did with it |
+| **Changed my mind** | "{{Year}} me: {{belief}}. Now: {{new belief}}." Self-own, honest |
+
+## Drafting from a pattern brief
+
+When the user supplies a pattern brief (recurring shapes, keywords and
+topics from posts that are working in their niche), draft from the patterns,
+never by rewriting a source post. Credit borrowed ideas. Skip sensitive or
+political source posts. The collection doesn't scrape; work from what the
+user supplies.
+
+## Soft CTAs
+
+Follow the soft CTA rules in the shared growth reference: one plain line at
+the end, only on the user's own strong posts, only to a real `{{CTA}}` the
+user's context allows, never an engagement instruction, never on reach-stage
+posts. When in doubt, leave it off.
 
 ## Hook bank format
 

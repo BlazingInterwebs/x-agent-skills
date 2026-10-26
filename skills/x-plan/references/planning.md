@@ -16,14 +16,27 @@ drafts the night before; the user edits and posts.
 Short day (30 min): blocks 1, 2 (5 min), 3, 4 (15 min). Skip 5.
 Long day (45 min): add a second 5-minute reply round later in the day.
 
+## More than one post a day
+
+Use the user's posts-per-day setting from context; the default is one. For 2
+or 3 posts, repeat blocks 3 and 4 for each post (about 20 minutes each), and
+space posts hours apart (see the shared cadence guidance). Give each slot a
+different funnel stage or mix. Write the full time budget out so the user
+can see it fits; if it doesn't, cut a post slot, not the reply time. Drop a
+slot on a day with no good idea.
+
 Why this order: warm up so the user is in the feed; post when the audience is
 awake; then stay around, because replies on the user's own post carry weight
 5.0 and new posts may get a short trial window (see the evidence reference).
 
 ## Posting slot
-Pick one slot that matches where the audience is (check analytics), write it
-in both the audience's and the user's time zones, and keep it roughly steady
-for 4 weeks before comparing.
+Pick one slot per post that matches where the audience is (check
+analytics), write each in both the audience's and the user's time zones, and
+keep them roughly steady for 4 weeks before comparing.
+
+## Link placement
+Follow the user's link placement setting. When links go in the first reply,
+the plan includes a minute right after posting to add that reply.
 
 ## Weekly rotation (default)
 
@@ -37,11 +50,19 @@ for 4 weeks before comparing.
 | Sat | Personal | Single post |
 | Sun | Off, or one X Article draft (every other week) | Article |
 
-Roughly 40% thought, 30% two-step, 30% personal. A pitch for `{{OFFER}}` with
-`{{CTA}}` at most once every two weeks, and only when both are real.
+Roughly 40% thought, 30% two-step, 30% personal. Tag each slot with a funnel
+stage as well (default about 60% reach, 30% trust, 10% sales; use the user's
+weights). Sales slots carry a soft CTA to `{{CTA}}`, only when it's real and
+allowed by the user's context; otherwise make them trust slots. With one post
+a day, the default sales share works out to about one soft-CTA post every
+week or two; with more posts, scale by the share, not by count.
+
+Article weeks: the Article takes one slot, and 2 to 3 quote posts of it
+from new angles take later slots over the next weeks (see `x-longform`).
 
 ## Daily rules
-- One post a day. A second only if it's genuinely good.
+- The user's posts-per-day number is a ceiling, not a quota. A slot with no
+  good idea stays empty.
 - No "gm," no filler. No asking for likes, reposts, or follows.
 - Can't post today? Skip. Don't let an agent post.
 
@@ -51,11 +72,12 @@ The user pastes the week's analytics; run `x-audit`, then:
 2. Top 3 posts by replies and profile visits, one line on why.
 3. Outliers (3x+ the 20-post median) with a "5 more versions" plan.
 4. Bottom 2: hook, topic, or timing?
-5. Mix check; adjust next week.
-6. Reply List: add 3 who replied back, drop 3 who never engage or drifted into politics. Note new mutuals.
-7. Add the week's best first line to the user's hook bank.
-8. Queue 6 drafts (in notes, not a scheduler) plus one Article idea.
-9. Is the pinned post still the best answer to "why follow?"
+5. Mix and funnel-stage check; adjust next week.
+6. Conversion: which posts drove profile visits, link clicks, DMs (as the user reports them) and follows, by topic, format and stage. Shift toward what converts.
+7. Reply List: add 3 who replied back, drop 3 who never engage or drifted into politics. Note new mutuals.
+8. Add the week's best first line to the user's hook bank.
+9. Queue next week's drafts to the posts-per-day setting (in notes, not a scheduler) plus one Article idea with its packaging and any quote-post follow-ups due.
+10. Is the pinned post still the best answer to "why follow?" Does the profile point to one next step?
 
 ## Monthly (first weekly review of the month, 15 minutes extra)
 - Top 5 of the month; shift next month's rotation about 10% toward the winning mix.

@@ -14,5 +14,8 @@ With `scripts/compare.py` available, run it on a CSV; otherwise show the
 manual calculation. Abstain when the baseline is too small or zero.
 
 Return the scoreboard, top posts, outliers with a one-line hypothesis each,
-flops, mix check, reply-list notes, and a "5 more versions" plan. Don't
+flops, mix and funnel-stage check, a conversion line (profile visits, link
+clicks, user-reported DMs and follows by topic, format and stage),
+reply-list notes, and a "5 more versions" plan. A post that reached widely
+but converted nobody is not automatically a winner. Don't
 credit one post with net weekly growth. Route new drafts to `x-post`.

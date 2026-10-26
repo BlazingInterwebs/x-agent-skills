@@ -64,7 +64,10 @@ SKILL.md. See [installation details](docs/installation.md).
 ## Context, capabilities, and privacy
 
 Use runtime briefs or the optional [context template](templates/context.md).
-Store your filled context and exports outside this public repository. Python
+Store your filled context and exports outside this public repository. If a
+filled copy must sit in a clone, name it `context.local.md` or
+`*.private.md`; `.gitignore` excludes those, plus `private/` and
+`local-context/`. Python
 helpers need Python 3.9+ with the standard library. Read the
 [metric definitions](shared/metrics.md) and [safety rules](shared/privacy.md).
 
@@ -93,10 +96,10 @@ python3 -B -m unittest discover -s tests -v
 Shared references and the comparison helper are bundled into each skill.
 After editing files under `shared/`, run `python3 -B scripts/sync_resources.py`.
 See [architecture](docs/architecture.md), [contributing](CONTRIBUTING.md), and
-[changelog](CHANGELOG.md). Version 0.1.0 is a pilot. [Roadmap](docs/roadmap.md).
+[changelog](CHANGELOG.md). Version 0.2.0 is a pilot. [Roadmap](docs/roadmap.md).
 
 ## License and acknowledgments
 
-[MIT](LICENSE). Structure follows the Blazing Interwebs Facebook Agent Skills
+[MIT](LICENSE). Structure follows the Facebook Agent Skills
 collection. Ideas credited in [Acknowledgments](ACKNOWLEDGMENTS.md). Not
 affiliated with or endorsed by X Corp.

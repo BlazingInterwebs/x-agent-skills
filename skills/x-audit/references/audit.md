@@ -13,6 +13,9 @@ Outliers (3x+): <post, multiple, hypothesis>
 Watch (2x to 3x): <post>
 Bottom 2: <post, likely cause>
 Mix: thought <n> / two-step <n> / personal <n>
+Funnel: reach <n> / trust <n> / sales <n> (vs the user's weights)
+Conversion: <posts that drove profile visits, link clicks, DMs (user-reported) and follows, by topic, format and stage>
+CTA check: <soft-CTA posts, what they drove, any CTA the context doesn't allow>
 Limits: <missing fields, small baseline, attribution caveats>
 Next: <5 more versions plan, rotation change>
 ```
@@ -30,5 +33,5 @@ Don't repost the same text. X's Original Content Rewards terms and the
 author-diversity decay both work against copies.
 
 ## Monthly
-Top 5 posts by replies and profile visits; which mix and hook type won; shift
-the rotation; refresh the pinned post if an outlier explains the user better.
+Top 5 posts by replies and profile visits; which mix, funnel stage and hook
+type won; which posts converted (not just reached); shift the rotation; refresh the pinned post if an outlier explains the user better.

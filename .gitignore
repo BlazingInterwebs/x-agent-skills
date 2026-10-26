@@ -9,3 +9,6 @@ private/
 local-context/
 artifacts/
 .pytest_cache/
+context.local.md
+*.local.md
+*.private.md

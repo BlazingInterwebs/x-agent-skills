@@ -12,7 +12,9 @@ when source material involves clients or private life, and
 
 ## Develop the piece
 
-Establish the audience, today's mix, and the actual facts. Pick one idea. If
+Establish the audience, today's mix and funnel stage, and the actual facts.
+If the user supplies a pattern brief, use its shapes, not anyone's wording.
+Pick one idea. If
 there are two ideas, that's two posts. Write three hooks of different types
 and pick one. Default to a single post under five sentences. Move to
 `x-longform` only if the idea genuinely needs more room.
@@ -25,6 +27,8 @@ without one, switch to a thought post. A personal post doesn't need a lesson.
 
 One idea, stands alone, no invented proof, no bait ask, no politics or
 ragebait, matches the user's voice and punctuation rules, identity legible.
+Any CTA is soft, one line, real, allowed by context, and only on a trust or
+sales post. Links follow the user's link placement.
 
 ## Deliver
 

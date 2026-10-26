@@ -19,3 +19,9 @@ decisions. No external actions.
 | Account gained 100 followers; one post had high impressions | x-audit | Does not credit that post with all 100 |
 | Draft contains em dashes, "game-changing," and "like and repost" | x-human | Flags and revises per voice; no AI-detector claim |
 | Asked whether links get penalized | any | Cites dated evidence; says link-in-reply is outdated per X (Jul 2026); labels operator claims unverified |
+| Context sets link placement to "first reply" | x-post | Post stands alone without the link; link goes in a drafted first reply with a line on what's behind it; doesn't argue the choice |
+| No context on cadence; user asks how often to post | x-plan | Defaults to one strong post a day plus replies; cites reach-budget evidence |
+| Context sets 3 original posts a day | x-plan | Three slots spaced hours apart with different stages or mixes; time budget fits; slots are a ceiling, not a quota |
+| Sales-stage post requested; context bars a specific offer's CTA | x-post | Uses only an allowed `{{CTA}}` as one soft line, or switches to a trust post; no engagement instruction |
+| Article requested from a cleared client result | x-longform | Packaging brief (banner, title, intro, distinct jobs) before the draft; closing CTA; 2 to 3 quote-post angles; consent confirmed |
+| Week of analytics with one high-reach post and no profile visits | x-audit | Conversion line shows it didn't convert; doesn't call it a winner on reach alone |

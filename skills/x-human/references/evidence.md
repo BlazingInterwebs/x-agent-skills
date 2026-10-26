@@ -1,6 +1,7 @@
 # Evidence register
 
-Reviewed 2026-10-16 (America/Detroit). This is a dated research snapshot, not
+Reviewed 2026-10-16 (US Eastern); operator tactics in section 9 added
+2026-10-26. This is a dated research snapshot, not
 a live policy feed. X changes parameters often and publishes many changes to
 the repo. Follow source links for current decisions and record a newer review
 date when changing a claim. Never present inaccessible documentation as verified.
@@ -26,6 +27,10 @@ Labels:
   interested, mute, block, report, not dwelled).
 
 ## 2. Current weights (VERIFIED, code, `home-mixer/params/param.rs`)
+
+Re-checked 2026-10-26 against the file (synced 2026-10-23): unchanged.
+`NotDwelledWeight = -0.02` (scroll-past). `SimclustersMaxCandidateAgeHours = 48`
+applies to the SimClusters source only.
 
 | Action | Weight | Plain read |
 | --- | --- | --- |
@@ -155,9 +160,29 @@ user's own subscription screen before any decision.
 - Don't expect Premium alone to fix reach. Quality and replies do the work.
 - Recommend nothing that costs money; buying or changing a plan is the user's call.
 
-## 9. Sources
+## 9. Operator tactics (UNVERIFIED, added 2026-10-26)
 
-Accessed 2026-10-16 (America/Detroit). Labels: primary (X, X staff, X's
+Practitioner advice, dated. None of it is an X rule or visible in the code.
+Treat each item as a hypothesis to test on the user's own account.
+
+| Tactic | Source | Notes |
+| --- | --- | --- |
+| Funnel mix of about 60% reach, 30% trust, 10% sales | Ryan, Oct 26, 2026 | Not every post sells. Weights are a starting point |
+| Trust content types: case study, result, behind the scenes, framework, lesson | Ryan, Oct 26, 2026 | Results and case studies need cleared, real material |
+| Profile as the sales page: bio, pinned post, header and link point to one next step | Ryan, Oct 26, 2026 | Consistent with "follow author" weight 4.0 (code) |
+| Soft CTA: one line at the end of the best posts | Ryan, Oct 26, 2026 | Keyword-comment CTAs conflict with X's no-solicitation terms; this collection excludes them |
+| Weekly conversion tracking (profile visits, clicks, DMs, follows by topic and format) | Ryan, Oct 26, 2026 | DMs are user-reported |
+| Article packaging decides the click: banner, title and intro each do a different job (sell the outcome, or answer one objection), with no overlap; no generic AI banners | Chan, Oct 26, 2026 | His reach claims for small accounts (six-figure Article views) are self-reported |
+| Process Articles that show how the work is done; Articles built from existing assets (a winning post, a lead magnet, a client result, an internal SOP) | Chan, Oct 26, 2026 | Client material needs consent (see privacy) |
+| Quote-post your own Article later from a new angle; end every Article with a CTA | Chan, Oct 26, 2026 | Each quote must add something new; never repost the same text |
+| Draft from a pattern brief mined from a niche watchlist, never by rewriting someone's post | kiosa, Sep 16, 2026 | Method only. This collection doesn't scrape; work from posts the user supplies |
+| One long piece becomes many short ones; keep 5 to 10 evergreen pieces as a profile onboarding library | Hades, Aug 12, 2026 | Summarized secondhand |
+| High-reach business posts in one 48-hour sample were mostly 1 to 3 sentences, no links, often a reframe, a "signs you'll..." list, a named tool and action, or a changed-my-mind self-own; CTAs were rare | Operator observation, Oct 24 to 26, 2026 | Small sample, one niche, one window. A format signal, not a rule |
+| Replies on fast-rising posts from bigger accounts in the niche earn visibility; late arrivals do better with a quote post that adds something | Operator observation, Oct 2026 | Reply timing claims stay UNVERIFIED (see section 3 and the engagement reference) |
+
+## 10. Sources
+
+Accessed 2026-10-16, operator additions 2026-10-26 (US Eastern). Labels: primary (X, X staff, X's
 code), operator (practitioner content), secondary (press or third-party
 summaries). GitHub skills that informed this collection are credited in the
 repository's ACKNOWLEDGMENTS.
@@ -212,3 +237,7 @@ repository's ACKNOWLEDGMENTS.
 - Sprout Social, best times to post on X 2026: https://sproutsocial.com/insights/best-times-to-post-on-twitter/
 - Reachmore, X reply strategy 2026 (5x to 20x target size, early replies; UNVERIFIED): https://reachmore.co/blogs/x-reply-strategy-2026
 - Reachmore, replying to big accounts: https://reachmore.co/blogs/reply-to-big-accounts-on-x
+- Ryan (@ryangrowthh), "How to Make Money on X with Grok Bot," X Article, Oct 26, 2026: https://x.com/ryangrowthh/status/2114730076197798214. Contributed: funnel mix, trust content types, profile as sales page, soft CTAs, conversion tracking. Income claims not used.
+- Benjamin Chan (@ItsMeBenChan), "How we revive dead accounts with Twitter articles," X Article, Oct 26, 2026: https://x.com/ItsMeBenChan/status/2114653397571825937. Contributed: Article packaging, process Articles, Articles from existing assets, quote-post redistribution, end CTA. View claims UNVERIFIED.
+- kiosa (@thegreatest_sv), X Article on a pattern-brief drafting desk, Sep 16, 2026: https://x.com/thegreatest_sv/status/2100236496837984387. Contributed: draft from a pattern brief, not a rewrite. Tool not used or endorsed.
+- Hades (@0xhvdes), "How 60 Days of Posting Content Can Change Your Life," X Article, Aug 12, 2026: https://x.com/0xhvdes/status/2087548852173721792. Contributed: profile onboarding library, one-to-many content loops. Income claims not used.

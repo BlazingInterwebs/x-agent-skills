@@ -22,6 +22,10 @@ missing step, a real example, a respectful counterpoint, a sharper version,
 or a genuine question. One to three sentences. Stands alone. No pitching,
 no links to the user's things, no dunking, no filler.
 
+For a fast-rising post (a "viral moment" in the reference), reply early or,
+if it's hours old and crowded, suggest a quote post that adds something
+real. Skip sensitive topics no matter the reach.
+
 ## Deliver
 
 Return the engagement output format from the reference, with a one-line
