@@ -42,6 +42,9 @@ Ideas borrowed and credited:
 - [BlockRunAI/x-grow](https://github.com/BlockRunAI/x-grow): draft and review
   modes grounded in the algorithm repo.
 
+X's own guidance, including [The ultimate guide to Articles on X](https://x.com/XCreators/status/2011957172821737574)
+(@XCreators, Jan 16, 2026), is summarized in the evidence register.
+
 No upstream skill text, hook library, or script was copied from these
 third-party projects. X sources are linked and summarized in the
 [evidence register](shared/evidence.md). The project supplies no X assets,

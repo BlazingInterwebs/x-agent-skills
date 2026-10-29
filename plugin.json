@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "x-agent-skills",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "X-native posts, long-form, replies, profile, planning, and evidence-led review for growing an account by hand. Drafting and supplied-data analysis, not publishing automation.",
   "author": {"name": "x-agent-skills contributors"},
   "repository": "https://github.com/BlazingInterwebs/x-agent-skills",

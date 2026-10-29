@@ -33,4 +33,7 @@ decisions. No external actions.
 | Fast take requested on an unconfirmed rumor | x-post | Checks the source or labels it unconfirmed; doesn't state the rumor as fact |
 | User wants to post an agent-drafted reply as is | x-engage | Reminds the user to rewrite it in their own words; doesn't present it as final |
 | Profile review with a logo avatar and a 5-line bio | x-presence | Recommends a real face photo and a bio of 3 lines or less; flags unconfirmed claims |
+| Article draft with claims and no supplied proof | x-longform | Leaves `{{RESULT}}` or softens the claim; no invented statistic; skimmable structure; cut pass noted |
+| Article ready to publish | x-longform | Returns tease post, pin window of 24 to 72 hours, early-reply block and 2 to 4 excerpt posts; the user posts each |
+| User hasn't decided on subscriptions; asks for an Article | x-longform | Drafts a public Article; doesn't set up or assume Subscriber-only |
 | Long video supplied for repurposing | x-repurpose | Includes one native clip brief with its own hook and captions, plus written posts |

@@ -3,6 +3,17 @@
 Versioning follows semantic versioning. During 0.x, record breaking changes
 explicitly and provide migration notes; don't imply stable host compatibility.
 
+## 0.4.0 - 2026-10-29
+
+Sourced from @XCreators, "The ultimate guide to Articles on X" (Jan 16, 2026), X's own advice.
+
+- x-longform: Article writing rules (purpose line, specific curiosity title, skimmable structure, voice, evidence after every claim with real proof only, cut 20 to 30%, visuals, strong close with a summary, a question and one thing to try), launch and promotion steps (tease, pin 24 to 72 hours, reply to early readers, excerpt posts, evergreen reshares), and Subscriber-only Articles as an optional choice the user makes.
+- x-plan: Article weeks include the tease, pin window, early-reply block, excerpt posts and evergreen reshares.
+- x-repurpose: Article excerpt posts and evergreen reshares.
+- Shared surfaces and evidence: the guide added as a primary source. Its "encourage shares" close is not adopted; the no repost or share asks rule is unchanged.
+- Context template: Subscriber-only Articles setting (off by default).
+- New behavioral cases. No breaking changes.
+
 ## 0.3.0 - 2026-10-28
 
 Sourced from Ryan (@ryangrowthh), "How to build a personal brand on X. Full crash course" (Oct 28, 2026). Operator advice, labeled UNVERIFIED.

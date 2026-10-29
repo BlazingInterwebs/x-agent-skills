@@ -1,7 +1,7 @@
 # Evidence register
 
 Reviewed 2026-10-16 (US Eastern); operator tactics in section 9 added
-2026-10-26 and 2026-10-28. This is a dated research snapshot, not
+2026-10-26 and 2026-10-28; X Articles guide added 2026-10-29. This is a dated research snapshot, not
 a live policy feed. X changes parameters often and publishes many changes to
 the repo. Follow source links for current decisions and record a newer review
 date when changing a claim. Never present inaccessible documentation as verified.
@@ -203,6 +203,7 @@ repository's ACKNOWLEDGMENTS.
   - user-cred-v2 (verified status seeds trust PageRank): https://github.com/xai-org/x-algorithm/tree/main/user-cred-v2
   - Original open-source commit, Jan 20, 2026: https://github.com/xai-org/x-algorithm/commit/aaa167b3de8a674587c53545a43c90eaad360010
 - @XCreators, "Original Content Rewards Program" Article, Aug 7, 2026: https://x.com/XCreators/status/2085835082166653393
+- @XCreators, "The ultimate guide to Articles on X," Jan 16, 2026: https://x.com/XCreators/status/2011957172821737574. Contributed: Article purpose, titles and hooks, skimmable structure, evidence after claims, cut 20 to 30%, strong close, tease, pin 24 to 72 hours, excerpt posts, reply to early readers, evergreen reshares, Subscriber-only Articles (optional). X's advice, not a ranking rule; its "encourage shares" close is not adopted.
 - X Help Center, Original Content Rewards (linked from the Article; returned 403 to fetch): https://help.x.com/en/using-x/original-content-rewards
 - @XCreators, X Premium becomes part of The X Subscription, Oct 12, 2026: https://x.com/XCreators/status/2109783762955649367
 - About X Premium, X Help Center (archived copy; live page returned 403): https://archive.ph/AqTHt and https://help.x.com/en/using-x/x-premium

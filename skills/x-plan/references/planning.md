@@ -67,8 +67,12 @@ allowed by the user's context; otherwise make them trust slots. With one post
 a day, the default sales share works out to about one soft-CTA post every
 week or two; with more posts, scale by the share, not by count.
 
-Article weeks: the Article takes one slot, and 2 to 3 quote posts of it
-from new angles take later slots over the next weeks (see `x-longform`).
+Article weeks: a tease post goes out a few hours before the Article; the
+Article takes one slot and stays pinned for 24 to 72 hours; reply time is
+blocked for its first hours; 2 to 4 excerpt posts linking back fill later
+slots that week; and 2 to 3 quote posts from new angles take slots over the
+next weeks (see `x-longform`). When news hits that an evergreen Article
+covers, a reshare with a "why now" line can take a reach slot.
 
 ## Daily rules
 - The user's posts-per-day number is a ceiling, not a quota. A slot with no

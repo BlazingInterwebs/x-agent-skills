@@ -18,6 +18,33 @@ Article and names Articles as the X-native long format.
 Titles: big promise, clear outcome, no confusion. Covers: their only job is
 to get the click; less is more.
 
+## Writing an Article (X Creators guide, Jan 16, 2026)
+
+X's own guide ("The ultimate guide to Articles on X"). These are X's
+recommendations, VERIFIED (X) as advice, not as ranking rules.
+
+1. **Purpose first.** One line before drafting: who it's for, and what they
+   should think, feel or do after reading.
+2. **Title and first sentence.** Specific, opens a curiosity gap, promises
+   value. Shape: "Why most {{common advice}} fails" beats "Tips for better
+   {{topic}}." The first sentence earns the second. Header image relevant
+   and appealing (see packaging below).
+3. **Skimmable.** Most readers are on mobile. Paragraphs of 2 to 4 lines,
+   one idea each; a subheading every 3 to 5 paragraphs; bullets or numbered
+   lists; bold the key insight in almost every section.
+4. **Voice.** Conversational, "you" and "your," recognizably the user. Not
+   corporate.
+5. **Show, don't tell.** Follow every claim with evidence: a real number, a
+   personal story, a before and after, an embedded post of the user's own.
+   Only real, cleared proof; with none, make the claim smaller or cut it.
+   Never invent a statistic.
+6. **Edit ruthlessly.** Cut 20 to 30% of the first draft. Remove filler
+   ("very," "really," "in order to"). Read it aloud.
+7. **Visuals.** Images, screenshots, charts and embedded posts break up the
+   text. Bold headers and spacing help.
+8. **Strong close.** Summarize in a few lines, ask one real question that
+   invites replies, and suggest one thing to try today. Then the CTA below.
+
 ## Article packaging (plan it before writing)
 
 Operator advice (Chan, Oct 26, 2026; UNVERIFIED): readers who click an
@@ -44,10 +71,38 @@ The three parts never repeat each other. Each does one job.
 
 ## Ending
 
-End with one CTA to a real `{{CTA}}`: another Article, a lead magnet, a
+After the strong close (summary, one real question, one thing to try), end
+with one CTA to a real `{{CTA}}`: another Article, a lead magnet, a
 newsletter or a booking link, as the user's context allows. Readers who
 finish are warm, so a direct next step fits better here than in a short
-post. No engagement instructions.
+post. No engagement instructions: X's guide suggests encouraging shares,
+but this collection doesn't ask for reposts or shares (Original Content
+Rewards terms); a question and a useful next step do that job.
+
+## Launch and promotion (X Creators guide, Jan 16, 2026)
+
+The user does each step by hand; agents draft the copy.
+
+1. **Tease** with a short post or real question a few hours before
+   publishing.
+2. **Pin** the new Article for the first 24 to 72 hours, then restore the
+   usual pinned post.
+3. **Reply to early readers.** The first wave of engagement helps
+   visibility; block time to answer in the first hours.
+4. **Excerpt posts.** Break the Article into standalone posts (one idea,
+   stat or step each) that link back to it.
+5. **Reshare evergreen Articles** when related news hits, with a new line
+   on why it matters now.
+
+## Subscriber-only Articles (optional, user decides)
+
+X lets eligible creators publish Articles to paying subscribers only (check
+eligibility in Creator Studio). X suggests a soft paywall (some free, the
+depth for subscribers), clear subscriber value (deep dives, early access,
+behind the scenes, series), recurring formats (weekly memo, Q&A, private
+breakdowns), thanking subscribers publicly and ending with a "Next week:"
+preview. This is a monetization choice only the user makes; never set it up
+or assume it. Without the user's decision, draft public Articles.
 
 ## Distribution after publishing
 

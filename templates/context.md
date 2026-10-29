@@ -54,6 +54,7 @@ invitation to invent it.
 - Original posts per day and minimum spacing between them (quality path: 3+ hours):
 - Link placement (post body / first reply):
 - Subscription plan and features available:
+- Subscriber-only Articles (off unless the user decides otherwise):
 - Reply list location and accounts the user named:
 - Hook bank location:
 - Pattern brief or watchlist source (supplied by the user):

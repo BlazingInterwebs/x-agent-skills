@@ -1,6 +1,6 @@
 # X surfaces and feature checks
 
-Last researched: 2026-10-16; operator additions 2026-10-26 and 2026-10-28. Announcements describe capabilities and rollouts,
+Last researched: 2026-10-16; operator additions 2026-10-26 and 2026-10-28; X Articles guide added 2026-10-29. Announcements describe capabilities and rollouts,
 not a guarantee that a specific account has every feature today. Details and
 sources are in [evidence](evidence.md).
 
@@ -9,7 +9,7 @@ sources are in [evidence](evidence.md).
 | **Single post** (280 chars, longer with a subscription) | Everyone | Default. One idea, under 5 sentences (Bier, Sep 2025) | |
 | **Long post** (up to 25,000 chars) | Paid subscribers (VERIFIED, X Help Center) | A short story or breakdown needing 6 to 15 lines | Only the first lines show before "Show more" |
 | **Thread** | Everyone | Separable steps where each post stands alone | X publishes no thread vs long post comparison |
-| **X Article** | Premium subscribers since Jan 7, 2026 (VERIFIED) | A deep piece, once a week or less | Bier: Articles grew 18x in 3 months (Mar 2026); Google indexing (Jun 2026); summaries and Listen added. Operators report large reach for small accounts when packaging is strong (UNVERIFIED, Oct 2026) |
+| **X Article** | Premium subscribers since Jan 7, 2026 (VERIFIED) | A deep piece, once a week or less | Bier: Articles grew 18x in 3 months (Mar 2026); Google indexing (Jun 2026); summaries and Listen added. Operators report large reach for small accounts when packaging is strong (UNVERIFIED, Oct 2026). X's Articles guide (Jan 16, 2026): tease, pin 24 to 72 hours, excerpt posts, reply to early readers. Subscriber-only Articles exist for eligible creators; the user decides |
 | **Reply** | Everyone | Networking under other posts; conversation on your own | Out-of-network replies are filtered from For You (code) |
 | **Quote post** | Everyone | Adding a real view to someone else's post | Quote weight 5.0 (code) |
 | **Native video clip** | Everyone (length limits vary by subscription) | A short clip cut from the user's own long-form video, about one a week, with a standalone hook and captions | Video watch and dwell are modeled actions (code). Clip cadence is operator advice (UNVERIFIED) |

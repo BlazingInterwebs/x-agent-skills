@@ -5,6 +5,10 @@
 - A long video becomes a single post with its sharpest line, a long post with
   the steps, and an X Article for the full version.
 - An X Article becomes a short thread of its strongest points weeks later.
+- An X Article becomes 2 to 4 excerpt posts (one idea, stat or step each)
+  that link back to it (X Creators guide, Jan 2026).
+- An evergreen Article gets reshared with a "why now" line when related
+  news hits.
 - Point every channel to another: X to `{{CTA}}` via bio and pinned post,
   video to X, X to the newsletter if one exists.
 - Write each version natively. Don't paste other platforms' captions or
