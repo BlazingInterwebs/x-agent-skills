@@ -96,7 +96,7 @@ python3 -B -m unittest discover -s tests -v
 Shared references and the comparison helper are bundled into each skill.
 After editing files under `shared/`, run `python3 -B scripts/sync_resources.py`.
 See [architecture](docs/architecture.md), [contributing](CONTRIBUTING.md), and
-[changelog](CHANGELOG.md). Version 0.2.0 is a pilot. [Roadmap](docs/roadmap.md).
+[changelog](CHANGELOG.md). Version 0.3.0 is a pilot. [Roadmap](docs/roadmap.md).
 
 ## License and acknowledgments
 

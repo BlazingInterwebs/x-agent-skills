@@ -29,13 +29,17 @@ Match the user's supplied voice. Without it, default to: conversational,
 contractions, brief, no corporate jargon, no hype, no guru tone, no generic
 AI phrasing. Check the user's punctuation rules (some voices ban em dashes).
 
+Every draft is a starting point, never final copy. Replies especially: an
+agent-drafted reply must be rewritten by the user in their own words before
+it is posted. Say so when delivering reply drafts.
+
 ## Draft output
 
 ```
 Mix: <from context>
 Stage: reach | trust | sales
 Hook type: bold claim | callout | curiosity gap | clear outcome | contrarian
-Format: single | long post | thread | Article | quote | reply
+Format: single | long post | thread | Article | quote | reply | video clip
 CTA: none | soft: <the one line>
 Draft:
 <text>

@@ -13,6 +13,7 @@ first, keep support replies short, and skip bad-faith ones. Resolve the
 actual question instead of ending every answer with a new question.
 
 Draft concise answers in the user's voice. Don't fabricate a resource, a
-result, or a relationship. Moderation suggestions are recommendations, not
+result, or a relationship. Remind the user to rewrite each answer in their
+own words before posting; unedited AI replies read as slop. Moderation suggestions are recommendations, not
 actions. A reply question many people share can become a new post through
 `x-post`. Use `x-engage` for replies on other people's posts.

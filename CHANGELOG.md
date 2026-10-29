@@ -3,6 +3,25 @@
 Versioning follows semantic versioning. During 0.x, record breaking changes
 explicitly and provide migration notes; don't imply stable host compatibility.
 
+## 0.3.0 - 2026-10-28
+
+Sourced from Ryan (@ryangrowthh), "How to build a personal brand on X. Full crash course" (Oct 28, 2026). Operator advice, labeled UNVERIFIED.
+
+- Shared growth: own a niche (overlap a hot niche with real skills, own a category, say what only you can say), proof is king (real, cleared proof only), and a monthly niche research step (top 10 to 20 accounts the user names; formats, hooks and gaps from their replies; one-page brief; read only, no scraping).
+- Content mix default now leans to reach: fast take 25%, how-to 25%, thought 15%, two-step 15%, personal 20%. Funnel reach default is 60 to 70%. Trust-heavy weeks are flagged.
+- Explicit CTAs: one named action and what the reader gets. The no like, repost or follow asks rule is unchanged, so Ryan's "follow" CTA example is not adopted.
+- Curiosity-gap hooks as the default packaging for reach posts; format mix (short, long, Article, video).
+- Avoid list adds negativity and attacking creators, reply-guy behavior, and AI slop. Agent-drafted replies must be rewritten by the user in their own words before posting.
+- Surfaces: native video clip row; two cadence paths (quality 3 to 5 a day at least 3 hours apart, quantity for news accounts only). The one-a-day default when context is silent is unchanged.
+- x-plan: quality-path days, new weekly rotation with a weekly video clip, reach-share check, monthly niche research.
+- x-presence: profile basics (face photo, bio of 3 lines or less, simple header, optional bio CTA).
+- x-engage, x-reply, x-human: not-a-reply-guy rules and the rewrite-in-your-own-words step.
+- x-repurpose: one native clip a week from long-form video.
+- x-audit: format and cadence lines, trust-heavy flag.
+- Context template: niche and category, posting path, format targets, niche research list, video source.
+- New behavioral cases for the above.
+- Migration: no breaking changes. Users who set their own mix weights keep them; the new default mix applies only when context is silent.
+
 ## 0.2.0 - 2026-10-26
 
 - Shared growth: funnel-stage layer (reach / trust / sales, default 60/30/10, user weights override), soft CTA rules, profile-as-sales-page note, conversion tracking, and a ranking-signals section (weights re-checked against the algorithm repo, labeled as weights on predicted probabilities).

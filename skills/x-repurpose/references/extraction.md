@@ -15,6 +15,18 @@
   reply ideas and an Article from one long video (operator loop, Hades,
   Aug 2026; UNVERIFIED as a ratio).
 
+## A video clip a week
+
+Mix video into the written feed (Ryan, Oct 28, 2026, UNVERIFIED as a
+cadence). From each long-form video the user publishes, pick one moment
+that stands alone:
+
+- One idea, a hook in the first seconds, captions on, cropped for mobile.
+- Upload natively to X. Don't just drop a video link and call it a clip.
+- The post text is its own hook, not the video title.
+- Link the full video per the user's link placement.
+- Only the user's own footage, or footage they have rights to reuse.
+
 ## Existing assets into Articles
 
 Operator advice (Chan, Oct 26, 2026; UNVERIFIED). Assets the user already has
@@ -34,7 +46,7 @@ idea for the packaging (banner, title, intro).
 ```
 Source: <title, timestamp or section>
 Idea: <one sentence>
-Format: single | long post | thread | Article | quote of an existing Article
+Format: single | long post | thread | Article | video clip | quote of an existing Article
 Hook type: <type>
 Reuse permission: <confirmed | ask the user>
 ```

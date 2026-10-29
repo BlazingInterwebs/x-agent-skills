@@ -12,8 +12,10 @@ Top 3: <post, metric, one-line hypothesis>
 Outliers (3x+): <post, multiple, hypothesis>
 Watch (2x to 3x): <post>
 Bottom 2: <post, likely cause>
-Mix: thought <n> / two-step <n> / personal <n>
-Funnel: reach <n> / trust <n> / sales <n> (vs the user's weights)
+Mix: fast take <n> / how-to <n> / thought <n> / two-step <n> / personal <n>
+Formats: short <n> / long <n> / Article <n> / video clip <n>
+Funnel: reach <n> / trust <n> / sales <n> (vs the user's weights; flag "too trust-heavy" if reach is under target)
+Cadence: posts per day and spacing vs the user's path
 Conversion: <posts that drove profile visits, link clicks, DMs (user-reported) and follows, by topic, format and stage>
 CTA check: <soft-CTA posts, what they drove, any CTA the context doesn't allow>
 Limits: <missing fields, small baseline, attribution caveats>

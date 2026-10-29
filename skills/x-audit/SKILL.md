@@ -14,7 +14,7 @@ With `scripts/compare.py` available, run it on a CSV; otherwise show the
 manual calculation. Abstain when the baseline is too small or zero.
 
 Return the scoreboard, top posts, outliers with a one-line hypothesis each,
-flops, mix and funnel-stage check, a conversion line (profile visits, link
+flops, mix, format and funnel-stage check (flag a trust-heavy week), a conversion line (profile visits, link
 clicks, user-reported DMs and follows by topic, format and stage),
 reply-list notes, and a "5 more versions" plan. A post that reached widely
 but converted nobody is not automatically a winner. Don't

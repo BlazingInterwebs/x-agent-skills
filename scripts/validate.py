@@ -83,7 +83,7 @@ def validate_repo(root=ROOT):
         for field in ("name", "version", "description", "license"):
             if not plugin.get(field):
                 errors.append("plugin missing " + field)
-        if plugin.get("version") != "0.2.0" or plugin.get("license") != "MIT":
+        if plugin.get("version") != "0.3.0" or plugin.get("license") != "MIT":
             errors.append("release metadata mismatch")
     except (OSError, ValueError) as exc:
         errors.append(str(exc))

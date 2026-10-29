@@ -1,7 +1,7 @@
 # Evidence register
 
 Reviewed 2026-10-16 (US Eastern); operator tactics in section 9 added
-2026-10-26. This is a dated research snapshot, not
+2026-10-26 and 2026-10-28. This is a dated research snapshot, not
 a live policy feed. X changes parameters often and publishes many changes to
 the repo. Follow source links for current decisions and record a newer review
 date when changing a claim. Never present inaccessible documentation as verified.
@@ -160,7 +160,7 @@ user's own subscription screen before any decision.
 - Don't expect Premium alone to fix reach. Quality and replies do the work.
 - Recommend nothing that costs money; buying or changing a plan is the user's call.
 
-## 9. Operator tactics (UNVERIFIED, added 2026-10-26)
+## 9. Operator tactics (UNVERIFIED, added 2026-10-26, extended 2026-10-28)
 
 Practitioner advice, dated. None of it is an X rule or visible in the code.
 Treat each item as a hypothesis to test on the user's own account.
@@ -179,6 +179,14 @@ Treat each item as a hypothesis to test on the user's own account.
 | One long piece becomes many short ones; keep 5 to 10 evergreen pieces as a profile onboarding library | Hades, Aug 12, 2026 | Summarized secondhand |
 | High-reach business posts in one 48-hour sample were mostly 1 to 3 sentences, no links, often a reframe, a "signs you'll..." list, a named tool and action, or a changed-my-mind self-own; CTAs were rare | Operator observation, Oct 24 to 26, 2026 | Small sample, one niche, one window. A format signal, not a rule |
 | Replies on fast-rising posts from bigger accounts in the niche earn visibility; late arrivals do better with a quote post that adds something | Operator observation, Oct 2026 | Reply timing claims stay UNVERIFIED (see section 3 and the engagement reference) |
+| Brand at the overlap of a hot niche and real skills; own or create a category; proof (results, case studies) is king | Ryan, Oct 28, 2026 | Proof must be real and cleared |
+| Profile basics: bio of 3 lines or less that says what you do, a face photo, a simple banner (solid color or short quote), an optional bio CTA | Ryan, Oct 28, 2026 | His claim that a face photo beats about 80% of a niche is self-reported |
+| Market research: study the top 10 to 20 accounts in the niche for formats, hooks and gaps; mine their replies for questions and critiques | Ryan, Oct 28, 2026 | Read only; this collection doesn't scrape |
+| Funnel mix of 60 to 70% reach, 30% trust, 10% sales; X is mainly top of funnel; being first on niche news is a strong reach path | Ryan, Oct 28, 2026 | Accuracy beats speed |
+| Two cadence paths: quality (3 to 5 a day, 3+ hours apart) or quantity (up to about 24 a day, about 1 hour apart); don't sit in between | Ryan, Oct 28, 2026 | This collection plans only the quality path for personal brands (see surfaces) |
+| Curiosity-gap hooks; explicit CTAs that tell people what to do | Ryan, Oct 28, 2026 | His examples include "follow"; this collection keeps its no like, repost or follow asks rule |
+| Mix formats: video and written, long and short | Ryan, Oct 28, 2026 | |
+| Avoid negativity, politics and attacking creators (mutes and reports are hard to recover from), reply-guy spam and AI slop, especially AI-generated replies | Ryan, Oct 28, 2026 | Consistent with negative weights (code) and Bier on low-effort posts |
 
 ## 10. Sources
 
@@ -238,6 +246,7 @@ repository's ACKNOWLEDGMENTS.
 - Reachmore, X reply strategy 2026 (5x to 20x target size, early replies; UNVERIFIED): https://reachmore.co/blogs/x-reply-strategy-2026
 - Reachmore, replying to big accounts: https://reachmore.co/blogs/reply-to-big-accounts-on-x
 - Ryan (@ryangrowthh), "How to Make Money on X with Grok Bot," X Article, Oct 26, 2026: https://x.com/ryangrowthh/status/2114730076197798214. Contributed: funnel mix, trust content types, profile as sales page, soft CTAs, conversion tracking. Income claims not used.
+- Ryan (@ryangrowthh), "How to build a personal brand on X. Full crash course," X video, Oct 28, 2026: https://x.com/ryangrowthh/status/2115618441571013084. Contributed: niche overlap and category ownership, profile basics, top-account research and reply mining, 60 to 70% reach mix, quality vs quantity cadence paths, curiosity-gap hooks, explicit CTAs, format mix, what to avoid. Impression claims self-reported, not used.
 - Benjamin Chan (@ItsMeBenChan), "How we revive dead accounts with Twitter articles," X Article, Oct 26, 2026: https://x.com/ItsMeBenChan/status/2114653397571825937. Contributed: Article packaging, process Articles, Articles from existing assets, quote-post redistribution, end CTA. View claims UNVERIFIED.
 - kiosa (@thegreatest_sv), X Article on a pattern-brief drafting desk, Sep 16, 2026: https://x.com/thegreatest_sv/status/2100236496837984387. Contributed: draft from a pattern brief, not a rewrite. Tool not used or endorsed.
 - Hades (@0xhvdes), "How 60 Days of Posting Content Can Change Your Life," X Article, Aug 12, 2026: https://x.com/0xhvdes/status/2087548852173721792. Contributed: profile onboarding library, one-to-many content loops. Income claims not used.

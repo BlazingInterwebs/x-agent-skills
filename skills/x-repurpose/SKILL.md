@@ -14,4 +14,5 @@ captions or video descriptions. Don't repost the same text. Return a short
 list of briefs with format and hook type, and route chosen ones to `x-post`
 or `x-longform`. Look for existing assets (a winning post, a lead magnet, a
 cleared client result, an internal SOP) that could become an X Article, and
-for published Articles that are due a new-angle quote post.
+for published Articles that are due a new-angle quote post. From each new
+long-form video, brief one native video clip for X.

@@ -18,9 +18,11 @@ Long day (45 min): add a second 5-minute reply round later in the day.
 
 ## More than one post a day
 
-Use the user's posts-per-day setting from context; the default is one. For 2
-or 3 posts, repeat blocks 3 and 4 for each post (about 20 minutes each), and
-space posts hours apart (see the shared cadence guidance). Give each slot a
+Use the user's posts-per-day setting from context; the default is one. On
+the quality path (3 to 5 posts), repeat blocks 3 and 4 for each post (about
+20 minutes each), and space posts at least 3 hours apart (see the shared
+cadence guidance). A 3-post day is about 80 minutes; a 5-post day is about
+2 hours. Give each slot a
 different funnel stage or mix. Write the full time budget out so the user
 can see it fits; if it doesn't, cut a post slot, not the reply time. Drop a
 slot on a day with no good idea.
@@ -40,19 +42,27 @@ the plan includes a minute right after posting to add that reply.
 
 ## Weekly rotation (default)
 
+One post a day:
+
 | Day | Mix | Format default |
 | --- | --- | --- |
-| Mon | Thought | Single post (real question) |
-| Tue | Two-step | Single post (only with a real `{{RESULT}}`; else swap to thought) |
-| Wed | Thought | Single or long post |
-| Thu | Personal | Single post, photo optional |
-| Fri | Two-step or thought | Single post |
-| Sat | Personal | Single post |
+| Mon | Fast take | Single post on the week's niche news |
+| Tue | How-to | Long post or infographic brief |
+| Wed | Thought or fast take | Single post |
+| Thu | Two-step | Single post (only with a real `{{RESULT}}`; else swap to how-to) |
+| Fri | How-to | Native video clip cut from the user's long-form video |
+| Sat | Personal | Single post, photo optional |
 | Sun | Off, or one X Article draft (every other week) | Article |
 
-Roughly 40% thought, 30% two-step, 30% personal. Tag each slot with a funnel
-stage as well (default about 60% reach, 30% trust, 10% sales; use the user's
-weights). Sales slots carry a soft CTA to `{{CTA}}`, only when it's real and
+On the quality path, add slots per day from the same mix: lead with fast
+takes and how-tos, keep one trust slot a day at most, and keep one video
+clip a week.
+
+Default mix: about 25% fast take, 25% how-to, 15% thought, 15% two-step,
+20% personal. Tag each slot with a funnel stage as well (default 60 to 70%
+reach, 30% trust, 10% sales; use the user's weights). Add up the reach
+share before returning the plan; if it's under the target, swap trust slots
+for reach slots. Sales slots carry a soft CTA to `{{CTA}}`, only when it's real and
 allowed by the user's context; otherwise make them trust slots. With one post
 a day, the default sales share works out to about one soft-CTA post every
 week or two; with more posts, scale by the share, not by count.
@@ -72,7 +82,7 @@ The user pastes the week's analytics; run `x-audit`, then:
 2. Top 3 posts by replies and profile visits, one line on why.
 3. Outliers (3x+ the 20-post median) with a "5 more versions" plan.
 4. Bottom 2: hook, topic, or timing?
-5. Mix and funnel-stage check; adjust next week.
+5. Mix, format and funnel-stage check: reach share vs target (too trust-heavy?), formats used (short, long, Article, video clip); adjust next week.
 6. Conversion: which posts drove profile visits, link clicks, DMs (as the user reports them) and follows, by topic, format and stage. Shift toward what converts.
 7. Reply List: add 3 who replied back, drop 3 who never engage or drifted into politics. Note new mutuals.
 8. Add the week's best first line to the user's hook bank.
@@ -83,3 +93,6 @@ The user pastes the week's analytics; run `x-audit`, then:
 - Top 5 of the month; shift next month's rotation about 10% toward the winning mix.
 - Check the evidence "Reviewed" date; re-check if older than 60 days.
 - Run the `x-presence` checklist.
+- Niche research: refresh the one-page formats, hooks and gaps brief from the
+  top 10 to 20 accounts the user names (see the growth reference). Feed the
+  gaps into next month's slots.

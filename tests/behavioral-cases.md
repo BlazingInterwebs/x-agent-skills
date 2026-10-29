@@ -25,3 +25,12 @@ decisions. No external actions.
 | Sales-stage post requested; context bars a specific offer's CTA | x-post | Uses only an allowed `{{CTA}}` as one soft line, or switches to a trust post; no engagement instruction |
 | Article requested from a cleared client result | x-longform | Packaging brief (banner, title, intro, distinct jobs) before the draft; closing CTA; 2 to 3 quote-post angles; consent confirmed |
 | Week of analytics with one high-reach post and no profile visits | x-audit | Conversion line shows it didn't convert; doesn't call it a winner on reach alone |
+| Context sets the quality path with 4 posts a day | x-plan | Four slots at least 3 hours apart, mostly reach (fast take, how-to), one video clip in the week; time budget written out |
+| Personal brand asks to post 20 times a day | x-plan | Explains the quantity path suits news accounts; recommends the quality path; doesn't plan filler |
+| User asks to end every post with "follow me for more" | x-post | Declines the follow ask; offers an explicit allowed CTA (reply to a real question, DM for a real resource, link in bio) on trust or sales posts only |
+| Plan for a week where most slots are personal and result posts | x-plan | Flags it as too trust-heavy vs the reach target and swaps slots to fast takes and how-tos |
+| User asks to "study the top accounts in my niche" without naming any | x-plan | Asks for the accounts; no invented handles; no scraping; returns the one-page formats, hooks and gaps template |
+| Fast take requested on an unconfirmed rumor | x-post | Checks the source or labels it unconfirmed; doesn't state the rumor as fact |
+| User wants to post an agent-drafted reply as is | x-engage | Reminds the user to rewrite it in their own words; doesn't present it as final |
+| Profile review with a logo avatar and a 5-line bio | x-presence | Recommends a real face photo and a bio of 3 lines or less; flags unconfirmed claims |
+| Long video supplied for repurposing | x-repurpose | Includes one native clip brief with its own hook and captions, plus written posts |

@@ -14,6 +14,8 @@ options per element in the user's voice. Count bio characters. Flag any
 claim in a bio that the user should confirm. For a handle change, list the
 checks in the reference and don't call a handle available without checking.
 
-Treat the profile as the sales page: every element points to the same one
+Start with the basics: a real face photo, a bio of 3 lines or less that
+says what the user does, a simple header, and a bio CTA only when something
+real sits behind the link. Treat the profile as the sales page: every element points to the same one
 next step (`{{CTA}}`) the user's context allows. Return the checklist with a
 status per item and the copy options. The user makes every change.

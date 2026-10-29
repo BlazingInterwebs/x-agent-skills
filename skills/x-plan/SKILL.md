@@ -11,12 +11,16 @@ Read [runtime](references/runtime.md), [growth](references/growth.md),
 Plan from the user's real time budget, audience location, mix, funnel
 weights, posts per day, link placement and pillars. Defaults (one post a
 day, link in the body, 60/30/10 funnel) apply only when context is silent.
+If the user picks the quality path, plan 3 to 5 posts at least 3 hours
+apart; don't plan the quantity path for a personal brand. Mix formats
+across the week (short, long, Article, video clip) and include the monthly
+niche research step from the growth reference.
 If analytics are absent, label the plan a starting hypothesis. Don't claim a
 universal best time. Reserve time for replies; don't claim a ritual causes
 reach.
 
 Return the daily blocks, the weekly rotation with mix, funnel stage and
-format per slot, the posting slots with time zones written out, any Article
+format per slot, the reach share it adds up to, the posting slots with time zones written out, any Article
 and quote-post follow-ups, and the review cadence including the conversion
 check. Route
 drafts to `x-post` or `x-longform` and results to `x-audit`. Never put

@@ -72,6 +72,18 @@ No pitching, links, or "DM me" under other people's posts. No dunking:
 "ratioing" someone invites mutes and blocks, which carry heavy negative
 weights. Disagree with ideas, never people.
 
+## Not a reply guy
+
+Reply-guy behavior (generic replies fired at every big post, replying only
+to be seen, the same reply shape everywhere) and AI-written replies are the
+fastest way to get muted (Ryan, Oct 28, 2026; Bier, Jan 2026). Rules:
+
+- Reply only when the user has something real to add.
+- Agent drafts are a starting point. The user rewrites the chosen reply in
+  their own words before posting, every time.
+- Skip negative, political or pile-on threads, and never attack a creator,
+  even one the user disagrees with.
+
 ## Bigger accounts and mutuals
 
 - Reply for weeks before any ask. Quote their best ideas with a real addition and credit them.

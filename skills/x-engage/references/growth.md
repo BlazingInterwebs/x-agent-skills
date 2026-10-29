@@ -20,16 +20,60 @@ Content is a series of chapters that point at one end state.
 Use the user's supplied story and pillars. If they're missing, mark them as
 `{{PILLARS}}`, `{{OFFER}}`, `{{CTA}}` and don't guess.
 
+## Own a niche (Ryan, X personal-brand crash course, Oct 28, 2026)
+
+Copy-paste brands rarely grow. Operator advice, UNVERIFIED as a rule:
+
+- **Find the overlap.** Where does the user's real authority overlap with
+  what is hot in their niche right now? Pick a specific pocket inside it.
+  X is real-time, so re-check the overlap as topics move.
+- **Solve real pain.** Ask what a younger version of the user would have
+  wanted to read. Post that.
+- **Own a category.** Staying niche builds a solid base; owning or naming a
+  category is where outsized growth tends to come from.
+- **Say what only you can say.** Your network, your experience, what you are
+  learning this week. If posts get no impressions, the usual cause is that
+  the content isn't valuable enough yet, not the algorithm.
+- **Proof is king.** Real results, case studies and client wins build trust
+  and convert. Only real, cleared proof, never invented or "illustrative"
+  results presented as true (see [privacy](privacy.md)).
+
+## Niche research (repeat monthly, or when growth stalls)
+
+Study the top 10 to 20 accounts in the niche and turn what you find into a
+one-page brief. This is the input for drafting from a pattern brief
+(`x-post`).
+
+1. **Who.** Only accounts the user names or approves. Never invent handles.
+2. **Formats.** Which formats carry their best posts: short posts, long
+   posts, Articles, threads, talking-head or screen video, infographics.
+3. **Hooks and messaging.** Recurring hook shapes, pain points and promises.
+4. **Gaps.** Read the replies under their biggest posts. Repeated questions,
+   confusion and critiques are content ideas the big accounts left open.
+5. **Output.** One page: top formats, top hook shapes, gaps and the 5 to 10
+   post ideas they suggest, each tagged with a funnel stage.
+
+Read by hand or with read-only tools the host legitimately provides. No
+scraping, no bulk collection, no storing other people's personal data. Learn
+formats and gaps; never copy anyone's wording.
+
 ## Content mix
 
 A rotating mix keeps an account human and stops audience fatigue. A
 working default (replace with the user's mix from context):
 
-| Mix | What it is | Rule |
-| --- | --- | --- |
-| **Thought** | A real question or observation the audience actually wrestles with | Real question, never engagement bait. The user must want the answers. |
-| **Two-step** | A concrete, true result, then a quiet "who's next" | The result must be real and cleared. The ask is one short line, no hype. |
-| **Personal** | Life, work, place, freedom | No bow-tied lesson. Let the moment be the post. |
+| Mix | What it is | Default share | Rule |
+| --- | --- | --- | --- |
+| **Fast take** | An early, useful take on news, a launch or a tool in the niche | ~25% | Facts checked against the source; add a real view, not a headline repost |
+| **How-to** | Steps, a full guide, a checklist or an infographic | ~25% | Something people save or send. Works without a click |
+| **Thought** | A real question or observation the audience actually wrestles with | ~15% | Real question, never engagement bait. The user must want the answers. |
+| **Two-step** | A concrete, true result, then a quiet "who's next" | ~15% | The result must be real and cleared. The ask is one short line, no hype. |
+| **Personal** | Life, work, place, freedom, the story behind the work | ~20% | No bow-tied lesson. Let the moment be the post. |
+
+Fast takes, how-tos and most thought posts do reach work; two-step and
+personal posts do trust work. Being early on real news in a fast-moving
+niche is one of the strongest paths to reach (Ryan, Oct 28, 2026,
+UNVERIFIED). Accuracy beats speed: never post a rumor as fact.
 
 The mix says what kind of post it is. The funnel stage below says what job
 it does. Tag each post with both.
@@ -42,9 +86,16 @@ with the user's funnel weights from context.
 
 | Stage | Default share | Job | Typical content |
 | --- | --- | --- | --- |
-| **Reach** | ~60% | Get seen by the right strangers | Short truths, reframes, observations, personal moments |
-| **Trust** | ~30% | Show the user can actually do it | Case studies (A to B), real results, behind the scenes, frameworks, lessons from mistakes |
+| **Reach** | ~60 to 70% | Get seen by the right strangers | Fast takes on niche news and tools, how-tos, full guides, infographics, short truths, reframes |
+| **Trust** | ~30% | Show the user can actually do it | Case studies (A to B), real results, behind the scenes, frameworks, lessons from mistakes, personal story |
 | **Sales** | ~10% | One clear next step | A soft CTA to a real `{{CTA}}` on a strong post |
+
+Reach is the job of most posts: X is mainly top of funnel, so generate
+impressions on X and point the warmest people to owned channels (a
+newsletter, a long-video channel, an offer page). New accounts often invert
+the mix, posting mostly personal or sales content, and grow slowly. If the
+last two weeks were under the user's reach share, the plan is too
+trust-heavy; shift slots toward fast takes and how-tos.
 
 Trust and sales content needs real, cleared material. Without a cleared
 `{{RESULT}}`, use a framework, behind-the-scenes or lesson post instead.
@@ -69,6 +120,11 @@ it." Rules:
 - Operator observation (Oct 2026, UNVERIFIED): CTAs are rare on the
   highest-reach business posts; when present they are usually a free
   resource. Keep them off reach-stage posts.
+- **Be explicit.** A CTA names one action and what the reader gets: reply
+  with their answer to a real question, DM a word for a real resource, or
+  use the link in the bio. Vague CTAs ("let me know") convert worse
+  (Ryan, Oct 28, 2026, UNVERIFIED). Explicit never means asking for likes,
+  reposts or follows; that line stays.
 
 ## The profile converts
 
@@ -143,12 +199,24 @@ Implications:
 - Point every channel to another (X to newsletter, YouTube to X).
 - Turn one idea into many through repurposing.
 - Spend closer to 50/50 on packaging and content, not 95/5.
+- Hooks open a curiosity gap the post closes (Ryan, Oct 28, 2026).
+- Mix formats: short and long, written and video. Short posts, long posts,
+  X Articles and native video clips all work; an account that only posts
+  one shape caps its reach (Ryan, Oct 28, 2026, UNVERIFIED).
 
 ## Never
 
 - Ask for likes, reposts, or follows. X's Original Content Rewards terms list
   "repeatedly instructing users to engage" as a violation.
 - Ragebait, fake controversy, or manufacturing an opposing group for a hook.
+- Negativity, politics, or attacking other creators. Mutes and reports carry
+  heavy negative weights and an account that collects them is slow to
+  recover.
+- Reply-guy behavior: generic replies fired at every big post, or replies
+  that exist only to be seen.
+- AI slop: generic, unedited AI text, especially AI-written replies. Any
+  draft an agent writes is a starting point; the user rewrites it in their
+  own words before posting.
 - Strings of low-effort posts ("gm," three-word replies). X's head of product
   said each post spends some of the day's reach (Jan 2026).
 - Invented results, testimonials, metrics, prices, or scarcity.

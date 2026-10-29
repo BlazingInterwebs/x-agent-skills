@@ -20,22 +20,27 @@ display name on a verified account may trigger a checkmark re-review
 - Never call a handle available without checking.
 
 ## Bio (160 characters)
-Who you help + what changes for them + one human detail. No hype. Every claim
-(years of experience, dates, results) must be something the user confirms.
-Count characters after edits.
+Three lines at most, and it says plainly what the user does: who you help +
+what changes for them + one human detail. No hype. Every claim (years of
+experience, dates, results) must be something the user confirms. Count
+characters after edits. An optional last line is the CTA, pointing to the
+link, when there is a real product or resource behind it.
 
 ## Link
 One link to the user's `{{CTA}}` destination. Until it exists, the user's
 main channel or website.
 
 ## Header (1500 x 500)
-One idea readable on a phone: a line in large type, or a real photo of the
-user working. No collage, logo wall or fake stats. Keep key content central;
+Simple wins: a solid color, one short line or quote in large type, or a
+real photo of the user working. One idea readable on a phone. No collage,
+logo wall or fake stats. Keep key content central;
 the avatar covers the lower left and the crop differs by device. An
 optional short "who it's for" line can make the header do sales-page work.
 
 ## Photo
-Clear, current face photo, the same as other channels.
+Clear, current photo of the user's face, the same as other channels. Not a
+logo, cartoon or AI portrait. Operator claim (Ryan, Oct 28, 2026,
+UNVERIFIED): a real face alone puts a profile ahead of most of a niche.
 
 ## Pinned post
 The post that best answers "why follow?" An intro long post (who, what they
@@ -54,8 +59,10 @@ context rules out an offer for now, point everything at an allowed one.
 
 ## Checklist
 - [ ] Name says who they are
-- [ ] Bio says who they help and what changes, in plain words
-- [ ] Header has one readable idea
+- [ ] Photo is the user's real face
+- [ ] Bio is 3 lines or less and says who they help and what changes, in plain words
+- [ ] Bio ends with a CTA to the link (only if a real product or resource exists)
+- [ ] Header is simple: solid color, one short line, or a real photo
 - [ ] Link goes to one real destination
 - [ ] Pinned post explains why to follow
 - [ ] Bio, pinned post, header and link point to the same one next step

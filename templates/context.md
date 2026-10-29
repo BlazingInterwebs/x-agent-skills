@@ -12,6 +12,7 @@ invitation to invent it.
 - People served and where they live (time zones):
 - Objective(s): network / audience growth / clients / traffic / other:
 - Priority order (e.g. account health, niche growth, viral replies):
+- Niche, pocket and category the user wants to own:
 - Topics to avoid entirely (e.g. politics):
 - Audience labels or terms to never use:
 
@@ -29,7 +30,8 @@ invitation to invent it.
 - Mix names, definitions and weights:
 - Weekly rotation preferences:
 - Pitch frequency:
-- Funnel mix weights (reach / trust / sales, default 60 / 30 / 10):
+- Funnel mix weights (reach / trust / sales, default 60 to 70 / 30 / 10):
+- Format targets (e.g. one video clip a week, one Article every week or two):
 
 ## Voice
 
@@ -48,12 +50,15 @@ invitation to invent it.
 ## Production
 
 - Daily time budget and posting slot (with time zones):
-- Original posts per day and minimum spacing between them:
+- Posting path (one a day / quality 3 to 5 a day):
+- Original posts per day and minimum spacing between them (quality path: 3+ hours):
 - Link placement (post body / first reply):
 - Subscription plan and features available:
 - Reply list location and accounts the user named:
 - Hook bank location:
 - Pattern brief or watchlist source (supplied by the user):
+- Niche research list (10 to 20 top accounts the user names) and last research date:
+- Long-form video source for weekly clips:
 
 Don't store passwords, tokens, full private conversations, or unnecessary
 client identifiers here.

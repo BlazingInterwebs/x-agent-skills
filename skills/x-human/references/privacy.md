@@ -17,3 +17,6 @@ Never turn a hypothetical into a personal testimony.
   not content. Credit ideas you borrow.
 - No automation that violates X's rules: no bots, no engagement pods, no
   purchased engagement, no scraping.
+- Niche research is reading and summarizing patterns. Don't collect or store
+  other people's personal data, and keep notes on other accounts to formats,
+  hooks and gaps.

@@ -15,6 +15,11 @@ Ideas borrowed and credited:
 - Ryan (@ryangrowthh), [How to Make Money on X with Grok Bot](https://x.com/ryangrowthh/status/2114730076197798214),
   Oct 26, 2026: funnel mix, trust content types, profile as sales page,
   soft CTAs, conversion tracking. Paraphrased; income claims not used.
+- Ryan (@ryangrowthh), [How to build a personal brand on X. Full crash course](https://x.com/ryangrowthh/status/2115618441571013084),
+  Oct 28, 2026: niche overlap and category ownership, profile basics,
+  top-account research and reply mining, reach-heavy mix, quality vs
+  quantity cadence paths, curiosity-gap hooks, explicit CTAs, format mix,
+  what to avoid. Paraphrased; impression claims not used.
 - Benjamin Chan (@ItsMeBenChan), [How we revive dead accounts with Twitter articles](https://x.com/ItsMeBenChan/status/2114653397571825937),
   Oct 26, 2026: Article packaging, process Articles, Articles from existing
   assets, quote-post redistribution, end-of-Article CTA. Paraphrased.

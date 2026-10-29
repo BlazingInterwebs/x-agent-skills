@@ -1,10 +1,13 @@
 # Roadmap and release gates
 
-0.2.0 is a bounded pilot, not proof of growth effectiveness. It adds funnel
-stages, soft CTAs, conversion tracking, Article packaging and distribution,
-ranking-signal guidance, and user overrides for cadence and link placement.
+0.3.0 is a bounded pilot, not proof of growth effectiveness. 0.2.0 added
+funnel stages, soft CTAs, conversion tracking, Article packaging and
+distribution, ranking-signal guidance, and user overrides for cadence and
+link placement. 0.3.0 adds niche ownership and research, a reach-leaning
+default mix, the quality cadence path, profile basics, weekly video clips,
+explicit CTAs, and anti-slop rules for replies.
 
-Deferred (not in 0.2.0): a lead-scout skill. It would only score leads the
+Deferred (not in 0.3.0): a lead-scout skill. It would only score leads the
 user supplies and draft outreach for the user to send. Revisit after more
 pilot data; mass outreach stays out of scope.
 

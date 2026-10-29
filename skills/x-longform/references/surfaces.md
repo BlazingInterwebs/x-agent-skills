@@ -1,6 +1,6 @@
 # X surfaces and feature checks
 
-Last researched: 2026-10-16; operator additions 2026-10-26. Announcements describe capabilities and rollouts,
+Last researched: 2026-10-16; operator additions 2026-10-26 and 2026-10-28. Announcements describe capabilities and rollouts,
 not a guarantee that a specific account has every feature today. Details and
 sources are in [evidence](evidence.md).
 
@@ -12,6 +12,7 @@ sources are in [evidence](evidence.md).
 | **X Article** | Premium subscribers since Jan 7, 2026 (VERIFIED) | A deep piece, once a week or less | Bier: Articles grew 18x in 3 months (Mar 2026); Google indexing (Jun 2026); summaries and Listen added. Operators report large reach for small accounts when packaging is strong (UNVERIFIED, Oct 2026) |
 | **Reply** | Everyone | Networking under other posts; conversation on your own | Out-of-network replies are filtered from For You (code) |
 | **Quote post** | Everyone | Adding a real view to someone else's post | Quote weight 5.0 (code) |
+| **Native video clip** | Everyone (length limits vary by subscription) | A short clip cut from the user's own long-form video, about one a week, with a standalone hook and captions | Video watch and dwell are modeled actions (code). Clip cadence is operator advice (UNVERIFIED) |
 | **Spaces** | Hosting from the mobile app (third-party report, UNVERIFIED) | Occasional live talk with a co-host | Little 2026 guidance from X |
 | **XChat group chats** | Joinable public links (Bier, Apr 22, 2026; 350 members and growing) | Small owned space | Replaces Communities |
 | **Communities** | **Shut down May 30, 2026** (TechCrunch) | None | Advice to post in Communities is outdated |
@@ -31,15 +32,29 @@ parent post so the two placements can be compared on the user's account.
 
 ## Cadence
 
-Default: one strong post a day, plus replies. A second post only for a
-genuinely good idea. Each post spends some reach (Bier, Jan 2026) and extra
-posts by the same author in one feed refresh decay (code).
+Default when context is silent: one strong post a day, plus replies. A
+second post only for a genuinely good idea. Each post spends some reach
+(Bier, Jan 2026) and extra posts by the same author in one feed refresh
+decay (code).
+
+Two growth paths (Ryan, Oct 28, 2026, UNVERIFIED). Pick one and commit;
+don't drift in between:
+
+| Path | Volume | Spacing | Fits |
+| --- | --- | --- | --- |
+| **Quality** | 3 to 5 original posts a day | 3+ hours apart | Personal brands, founders, experts. The path this collection supports |
+| **Quantity** | Up to about 24 a day | About 1 hour apart | News and aggregator accounts that expect many flops |
+
+This collection does not plan the quantity path for a personal brand: it
+conflicts with X's guidance that each post spends reach and with
+same-author decay, and it pushes toward filler. Say so if asked.
 
 User override: if the user's context sets more original posts a day (for
-example 2 or 3), space them hours apart (INTERPRETATION: spacing reduces
-same-refresh author decay), give each a different funnel stage or mix, and
-keep the quality bar. Drop a slot rather than post filler. Replies don't
-count toward the posts-per-day number.
+example 3 to 5), space them at least 3 hours apart, or the user's minimum
+spacing if it is longer (INTERPRETATION: spacing reduces same-refresh author
+decay), give each a different funnel stage, mix or format, and keep the
+quality bar. The number is a ceiling, not a quota: drop a slot rather than
+post filler. Replies don't count toward the posts-per-day number.
 
 ## Timing
 

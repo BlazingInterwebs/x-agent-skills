@@ -20,7 +20,10 @@ names or already follows.
 Give two or three reply options, best first. Each makes one move: add the
 missing step, a real example, a respectful counterpoint, a sharper version,
 or a genuine question. One to three sentences. Stands alone. No pitching,
-no links to the user's things, no dunking, no filler.
+no links to the user's things, no dunking or attacking creators, no filler.
+Drafts are raw material: tell the user to rewrite the one they pick in their
+own words before posting. Unedited AI replies read as slop and hurt the
+account.
 
 For a fast-rising post (a "viral moment" in the reference), reply early or,
 if it's hours old and crowded, suggest a quote post that adds something
